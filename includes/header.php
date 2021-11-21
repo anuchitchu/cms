@@ -3,6 +3,7 @@
 <head>
     <title>My blog</title>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="<?=Url::currentURL();?>/cms/css/jquery.datetimepicker.min.css">
 </head>
 <body>
 
